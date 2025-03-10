@@ -1,0 +1,881 @@
+Hyppää pääsisältöön
+Opiskelijan opas
+Opintotiedot
+Tutkinto-ohjelmat
+Tutkinto-ohjelma
+In English
+Tampereen korkeakouluyhteisön logo, linkki pääsivustolle
+Avaa valikkoValikko
+Takaisin
+Tutkinto-ohjelma, lukuvuosi 2024–2025
+Tietojenkäsittelytieteiden kandidaattiohjelma, 180 op
+Tampereen yliopisto
+Kuvaus
+Rakenne ja opinnot
+Valittava vähintään 180 op
+Avaa kaikki|Sulje kaikki
+COMP.CS-M01
+Tietojenkäsittelytieteiden tutkinto-ohjelman yhteiset opinnot, Vähintään 35 op
+Yhteiset opinnot 35 op.
+
+piilota Tietojenkäsittelytieteiden tutkinto-ohjelman yhteiset opinnot
+ITC.NS.010
+Orientoivat opinnot, 2 op
+COMP.CS.020
+Opintojen ohjattu suunnittelu, 2 op
+COMP.CS.050
+Johdatus tietojenkäsittelytieteisiin, 3 op
+COMP.CS.011
+Digitaaliset yleistaidot, teema 1: Yliopiston tietotekninen ympäristö, 1 op
+COMP.CS.012
+Digitaaliset yleistaidot, teema 2: Taulukkomuotoisen tiedon käsittely ja tiedon visualisointi, 1 op
+COMP.CS.013
+Digitaaliset yleistaidot, teema 3: Tekstimuotoisen tiedon käsittely sekä kuvankäsittelyn ja verkossa julkaisemisen periaatteet, 1 op
+DATA.STAT.110
+Tilastotieteen johdantokurssi, 5 op
+MATH.APP.010
+Johdatus yliopistomatematiikkaan, 5 op
+MATH.MA.140
+Vektorit ja matriisit, 5 op
+Matematiikan opintojakso
+Vapaasti valittavissa
+piilota Matematiikan opintojakso
+MATH.MA.210
+Diskreetti matematiikka, 5 op
+MATH.APP.210
+Johdatus todennäköisyyslaskentaan ja tilastolliseen päättelyyn, 5 op
+Viestintä- ja kieliopinnot
+Valittava vähintään 10 op
+piilota Viestintä- ja kieliopinnot
+LANG.002
+Monikielinen johdanto akateemisiin viestintä- ja kieliopintoihin 2, 2 op
+LANG.RUO.001
+Ruotsia työelämään (B1), 3 op
+LANG.TIE.001
+Akateeminen kirjoittaminen, 2 op
+LANG.ENG.001
+Foundations of Professional and Academic Communication in English (B2), 3 op
+Vieraan kielen opintojakso
+Vapaasti valittavissa
+piilota Vieraan kielen opintojakso
+LANG.ESP.006
+Espanja 6 – Työskentele espanjaksi (B1), 4 op
+LANG.RAN.006
+Ranska 6 - Työskentele ranskaksi (B1), 4 op
+LANG.SAK.006
+Saksa 6 - Työskentele saksaksi (B1), 4 op
+LANG.VEN.006
+Venäjä 6 - Työskentele venäjäksi (B1), 4 op
+Valinnainen kieliopintojen jakso
+Vapaasti valittavissa
+piilota Valinnainen kieliopintojen jakso
+LANG.RUO.007
+Aktivoi ruotsin kielen taitosi (A2), 2 op
+LANG.PUH.001
+Vuorovaikutusosaaminen työelämässä, 2 op
+LANG.PUH.002
+Vuorovaikutusosaaminen opetus- ja ohjausaloilla, 2 op
+LANG.ENG.002
+Working Life Interactions in English (B2), 2 op
+LANG.ENG.003
+Online Working Life Interactions in English (B2), 2 op
+LANG.ENG.004
+Text Talk: Research and Discussion for Academic and Professional Life B (B2), 2 op
+LANG.ENG.005
+In the News: Viewpoints and Values Represented in International Media (B2), 2 op
+LANG.ENG.007
+Thesis Writing B (C1), 2 op
+LANG.ENG.008
+Thesis Clinic (C1), 2 op
+LANG.ENG.012
+Academic Writing (C1), 2 op
+LANG.ENG.026
+Activate your Spoken English (B2), 2 op
+LANG.ICC.001
+Developing Internationalization Through Intercultural Communication (B2), 2 op
+LANG.ICC.002
+Entering the Global Workplace: Interculturality and Communication (B2), 2 op
+LANG.RUO.002
+Keskustele työroolissa ruotsiksi (B1), 2 op
+LANG.RUO.003
+Keskustele ja vaikuta mediassa ruotsiksi (B1), 2 op
+LANG.RUO.004
+Työelämä Pohjoismaissa (B1), 2 op
+LANG.PUH.003
+Esiintyjänä työelämässä, 2 op
+LANG.PUH.004
+Ryhmäviestijänä työelämässä, 2 op
+LANG.PUH.005
+Vuorovaikutusosaaminen työelämässä maisteri- ja DI-opiskelijoille, 2 op
+LANG.ESP.007
+Espanja 7 - Viesti ja keskustele espanjaksi (B1), 2 op
+LANG.RAN.007
+Ranska 7 - Viesti ja keskustele ranskaksi (B1), 2 op
+LANG.SAK.007
+Saksa 7 - Keskustele ajankohtaisista aiheista saksaksi (B1), 2 op
+LANG.SAK.008
+Saksa 8 - Viesti ja tiedota saksaksi (B1), 2 op
+LANG.SAK.009
+Saksa 9 - Opiskele ja työskentele saksankielisissä maissa (B2), 2 op
+LANG.SAK.010
+Saksa 10 - Viesti tulevaisuuden ja ympäristön kysymyksistä saksaksi (B2), 2 op
+Avaa kaikki|Sulje kaikki
+COMP.CS-P01
+Tietojenkäsittelytieteiden perusopinnot, 25 op
+Valittava vähintään 25 op
+piilota Tietojenkäsittelytieteiden perusopinnot
+COMP.CS.100
+Ohjelmointi 1: Johdatus ohjelmointiin, 5 op
+HTI.100
+Ihmisen ja teknologian vuorovaikutus: Perusteet, 5 op
+DATA.DB.100
+Tietokantojen perusteet, 5 op
+COMP.SE.100
+Johdatus ohjelmistotuotantoon, 5 op
+COMP.CS.110
+Ohjelmointi 2: Tekniikat, 5 op
+Avaa kaikki|Sulje kaikki
+COMP.CS-A01
+Tietojenkäsittelytieteiden aineopinnot, Vähintään 50 op
+Valittava vähintään 50 op
+Aineopintojen laajuus vähintään 50 opintopistettä.
+
+piilota Tietojenkäsittelytieteiden aineopinnot
+COMP.CS.115
+Ohjelmointi 3: Rajapinnat, 5 op
+COMP.CS.300
+Tietorakenteet ja algoritmit 1, 5 op
+COMP.SE.610
+Software Engineering Project 1, 5 op
+COMP.SEC.100
+Kyberturvallisuus I: perusteet, 5 op
+COMP.900
+Kandidaatintutkielma ja seminaari, tietojenkäsittelytieteet, 10 op
+Valittava vähintään 5 op
+Valitse tästä vähintään yksi opintojakso.
+
+piilota
+COMP.CS.130
+Functional programming, 5 op
+DATA.100
+Johdatus data-analyysiin, 5 op
+COMP.CS.500
+Introduction to Full Stack Development, 5 op
+HTI.110
+Käyttöliittymät ja ihmiskeskeinen suunnittelu, 5 op
+Vapaasti valittavissa
+Valinnaisia tietojenkäsittelytieteiden aineopintoihin soveltuvia opintojaksoja.
+
+piilota Valintajoukko
+COMP.CS.060
+Versionhallinta: Git, 1–3 op
+COMP.CS.070
+Vertaisohjaus, 1–3 op
+COMP.CS.120
+Ohjelmoinnin tekniikka C, 5 op
+COMP.CS.200
+Verkkosivustojen kehittäminen, 5 op
+DATA.DB.200
+Tietokantajärjestelmät: SQL, 5 op
+TIJO.010
+Tietojohtamisen perusteet, 5 op
+TIJO.216
+Tietohallinto ja sen johtaminen, 5 op
+Valittava yksi kpl
+Kandidaatin opinnäytetyön kypsyysnäyte.
+
+piilota Valintajoukko
+TAU.KN.010
+Kypsyysnäyte suomeksi alemmassa korkeakoulututkinnossa, sisällön ja kielen tarkistus, 0 op
+TAU.KN.020
+Kypsyysnäyte ruotsiksi alemmassa korkeakoulututkinnossa, sisällön ja kielen tarkistus, 0 op
+Avaa kaikki|Sulje kaikki
+Vapaasti valittavat opintokokonaisuudet
+Vapaasti valittava opintokokonaisuus
+LuK-tutkintoon tulee sisältyä vähintään yksi vähintään 20 opintopisteen laajuinen valinnaisten opintojen kokonaisuus.
+
+
+
+Esimerkkejä vapaasti valittavien opintojen kokonaisuuksiksi:
+
+Bioteknologia valinnaisina opintoina väh. 20 op
+
+Filosofian opintoja valinnaisina opintoina 20–120 op
+
+Informaatiotutkimuksen aineopintoja valinnaisina opintoina
+
+Kauppatieteiden perusopinnot valinnaisina opintoina väh. 20 op
+
+Markkinointi valinnaisina opintoina väh. 20 op
+
+Matematiikka ja tilastollinen data-analyysi valinnaisina opintoina väh. 20 op
+
+Psykologia valinnaisina opintoina 20–60 op
+
+Tilastollinen data-analyysi valinnaisina opintoina väh. 20 op
+
+Viestinnän monitieteisen tutkinto-ohjelman perusopinnot valinnaisina opintoina 25 op
+
+Ympäristötekniikka, aineopinnot valinnaisina opintoina väh. 20 op
+
+Accessibility in Digital Society, väh. 20 op
+
+Kestävän kehityksen opintokokonaisuus väh. 20 op
+
+piilota Vapaasti valittavat opintokokonaisuudet
+BBTK-A38
+Bioteknologia valinnaisina opintoina, Vähintään 20 op
+Valittava vähintään 20 op
+piilota Bioteknologia valinnaisina opintoina
+Valittava yksi kpl
+Valitse opintojaksot sen mukaan, minkä tutkinto-ohjelman opiskelija olet.
+
+piilota Valintajoukko
+Bioteknologian ja biolääketieteen tekniikan tutkinto-ohjelmat opiskelijat
+Valittava vähintään 20 op
+piilota Bioteknologian ja biolääketieteen tekniikan tutkinto-ohjelmat opiskelijat
+BBT.017
+Molekyylibiologia, 5 op
+BBT.019
+Rakennebiologia, 5 op
+Valittava vähintään 10 op
+piilota
+BBT.007
+Genetiikka, 3 op
+BBT.014
+Hands-on Genetics, 2 op
+BBT.011
+Molekyylibiologian työt, 5 op
+BBT.021
+Bioinformatiikka, 5 op
+BBT.008
+Aineenvaihdunta, 8 op
+BBT.018
+Molekulaarinen solubiologia, 10 op
+BBT.013
+Biokemian menetelmät ja työt, 7 op
+Muiden tutkinto-ohjelmien opiskelijat
+Valittava vähintään 20 op
+piilota Muiden tutkinto-ohjelmien opiskelijat
+BBT.006
+Solut, 10 op
+Valittava vähintään 10 op
+piilota
+BBT.007
+Genetiikka, 3 op
+BBT.021
+Bioinformatiikka, 5 op
+BBT.017
+Molekyylibiologia, 5 op
+BBT.019
+Rakennebiologia, 5 op
+BBT.018
+Molekulaarinen solubiologia, 10 op
+FIL-M01
+Filosofian opintoja valinnaisina opintoina, 20–120 op
+Valittava 20–120 op
+piilota Filosofian opintoja valinnaisina opintoina
+Filosofian perusopintoja
+Valittava 5–25 op
+piilota Filosofian perusopintoja
+FIL.FIA.001
+Johdatus filosofiaan ja sen historiaan, 5 op
+FIL.FIA.002
+Logiikka, 5 op
+FIL.FIA.003
+Argumentaatio ja tieteenfilosofia, 5 op
+FIL.FIA.004
+Etiikka ja yhteiskuntafilosofia I, 5 op
+FIL.FIA.005
+Tieto-oppi ja metafysiikka, 5 op
+Filosofian aineopintoja
+Valittava 5–50 op
+60 op:n filosofian perus- ja aineopintojen kokonaisuuteen suorita filosofian aineopinnoista seuraavat jaksot (yht. 35 op):
+
+FILA01-FILA02 Filosofian historia
+
+FILA03 Filosofian klassikot
+
+FILA04 Tieteenfilosofia
+
+FILA05 Kieli- ja mielenfilosofia
+
+FILA06 Etiikka ja yhteiskuntafilosofia
+
+sekä kaksi vapaasti valittavaa aineopintojen jaksoa.
+
+piilota Filosofian aineopintoja
+FIL.FIA.010
+Filosofian historia antiikista keskiajalle, 5 op
+FIL.FIA.020
+Filosofian historia renessanssin ajoista 1900-luvulle, 5 op
+FIL.FIA.030
+Filosofian klassikot, 5 op
+FIL.FIA.040
+Tieteenfilosofia, 5 op
+FIL.FIA.050
+Kieli- ja mielenfilosofia, 5 op
+FIL.FIA.060
+Etiikka ja yhteiskuntafilosofia II, 5 op
+FIL.FIA.070
+Filosofinen logiikka, 5 op
+FIL.FIA.080
+Nykyajan filosofia, 5 op
+FIL.FIA.090
+Epistemologia, 5 op
+FIL.FIA.100
+Metafysiikka, 5 op
+FIL.FIA.110
+Taiteenfilosofia ja estetiikka I, 5 op
+FIL.FIA.130
+Etiikka III, 5 op
+FIL.FIA.140
+Yhteiskuntafilosofia III, 5 op
+Filosofian syventäviä opintoja
+Valittava 0–60 kpl
+piilota Filosofian syventäviä opintoja
+FIL.FIY.101
+Filosofian historia ja nykyajan filosofia, kirjallinen työ, 5–15 op
+FIL.FIY.201
+Logiikan historia, filosofinen logiikka ja kielifilosofia, kirjallinen työ, 5–15 op
+FIL.FIY.301
+Metafysiikka ja mielenfilosofia, kirjallinen työ, 5–15 op
+FIL.FIY.401
+Epistemologia ja tieteenfilosofia, kirjallinen työ, 5–15 op
+FIL.FIY.501
+Etiikka ja yhteiskuntafilosofia IV, 15 op, 5–15 op
+FIL.FIY.601
+Taiteenfilosofia ja estetiikka II, kirjallinen työ, 5–15 op
+FIL.FIY.750
+Filosofinen argumentaatio, tulkinta ja kirjoittaminen, 5 op
+FIL.FIY.102
+Filosofian historia ja nykyajan filosofia, tentti, 5 op
+FIL.FIY.202
+Logiikan historia, filosofinen logiikka ja kielifilosofia, tentti, 5 op
+FIL.FIY.302
+Metafysiikka ja mielenfilosofia, tentti, 5 op
+FIL.FIY.402
+Epistemologia ja tieteenfilosofia, tentti, 5 op
+FIL.FIY.502
+Etiikka ja yhteiskuntafilosofia IV, 5 op, 5 op
+FIL.FIY.602
+Taiteenfilosofia ja estetiikka II, tentti, 5 op
+VIM.IT-A02
+Informaatiotutkimuksen aineopintoja valinnaisina opintoina, Vähintään 15 op
+Valittava vähintään 15 op
+piilota Informaatiotutkimuksen aineopintoja valinnaisina opintoina
+VIM.130
+Informaatio- ja mediajärjestelmät, 5 op
+VIM.IT.210
+Tiedon organisointi ja informaatioarkkitehtuuri, 5 op
+VIM.IT.220
+Information Search and Generation with Large Language Models, 5 op
+VIM.IT.230
+Kirjasto- ja tietopalvelujen kehittäminen, 5 op
+VIM.IT.240
+Informaatioalan asiantuntijuus, 5 op
+VIM.IT.250
+Palvelumuotoilua informaatioaloille, 5 op
+VIM.IT.260
+Työssäoppiminen, 10 op
+VIM.IT.310
+Digitaaliset kirjastot ja avoin tiede, 5 op
+VIM.IT.320
+Internetin historiat, 5 op
+VIM.IT.330
+Tietokäytäntöjen klassiset teoriat, 5 op
+VIM.IT.340
+Kirja- ja kirjastohistoria, 5 op
+KAT-P01
+Kauppatieteiden perusopinnot valinnaisina opintoina, 30 op
+piilota Kauppatieteiden perusopinnot valinnaisina opintoina
+KAT.JOHT.101
+Yrityksen johtamisen perusteet, 5 op
+KAT.MARK.101
+Markkinoinnin perusteet, 5 op
+KAT.TAL.101
+Taloustieteen perusteet, 5 op
+KAT.LASK.101
+Laskentatoimen perusteet, 5 op
+KAT.YRVE.101
+Johdatus oikeusjärjestykseen, 5 op
+KAT.VRH.101
+Johdanto riskienhallintaan ja vakuuttamiseen, 5 op
+KAT.MARK-M10
+Markkinointi valinnaisina opintoina, Vähintään 20 op
+Valittava vähintään 20 op
+piilota Markkinointi valinnaisina opintoina
+Valittava vähintään 10 op
+piilota
+KAT.MARK.101
+Markkinoinnin perusteet, 5 op
+KAT.MARK.206
+Kuluttajakäyttäytyminen, 5 op
+KAT.MARK.204
+Digital marketing, 5 op
+KAT.MARK.202
+Brand Management & Communication, 5 op
+KAT.MARK.232
+Readings in service and experience economy, 5 op
+KAT.MARK.234
+Readings in Business Models and Transformations, 5 op
+KAT.MARK.209
+Asiakaslähtöisen liiketoiminnan johtaminen, 10 op
+Digitaalisen kaupan opintojaksot
+Valittava 0– op
+piilota Digitaalisen kaupan opintojaksot
+KAT.KAU.001
+Hankintatoimen ja toimittajasuhteiden johtaminen kaupan alalla, 6 op
+KAT.KAU.002
+Sales and buyer behavior in retailing, 6 op
+KAT.KAU.003
+Digitalisoituva kauppa, 5 op
+KAT.KAU.004
+Jakelukanavat ja kaupan ketjuliiketoiminta, 5 op
+KAT.KAU.005
+Brand experience in retailing, 5 op
+KAT.KAU.006
+Digitaalinen kauppa käytännössä, 6 op
+KAT.KAU.007
+Digitaalisen kaupan trainee-jakso, 6 op
+MATH-M05
+Matematiikka ja tilastollinen data-analyysi valinnaisina opintoina, Vähintään 20 op
+Valittava vähintään 20 op
+piilota Matematiikka ja tilastollinen data-analyysi valinnaisina opintoina
+Valittava 0– op
+Perusopintoja
+
+piilota
+DATA.STAT.110
+Tilastotieteen johdantokurssi, 5 op
+DATA.STAT.120
+Tilastollisten menetelmien perusteet, 5 op
+MATH.APP.111
+Analyysin peruskurssi, 5 op
+MATH.APP.160
+Differentiaali- ja integraalilaskenta, 5 op
+MATH.APP.210
+Johdatus todennäköisyyslaskentaan ja tilastolliseen päättelyyn, 5 op
+MATH.APP.220
+Usean muuttujan funktiot, 5 op
+MATH.APP.230
+Vektorianalyysi, 5 op
+MATH.APP.240
+Fourier'n menetelmät, 5 op
+MATH.APP.270
+Graafialgoritmit, 5 op
+MATH.APP.280
+Sovelletun matematiikan menetelmiä, 5 op
+MATH.MA.140
+Vektorit ja matriisit, 5 op
+MATH.MA.210
+Diskreetti matematiikka, 5 op
+MATH.MA.250
+Johdatus matemaattiseen päättelyyn ja lukuteoriaan, 5 op
+Valittava 0– op
+Aineopintoja
+
+piilota
+DATA.STAT.210
+Empiirinen projekti, 5 op
+DATA.STAT.420
+Matemaattisen tilastotieteen perusteet, 5 op
+DATA.STAT.430
+Laskennalliset menetelmät ja bayesiläisyyden perusteet, 5 op
+DATA.STAT.440
+Statistical Inference, 5 op
+DATA.STAT.450
+Monimuuttujamenetelmät, 5 op
+DATA.STAT.460
+Regression Analysis, 5 op
+DATA.STAT.470
+Yleistetyt lineaariset mallit, 5 op
+DATA.STAT.500
+Sekamallit, 5 op
+MATH.APP.410
+Matriisilaskenta, 5 op
+MATH.APP.420
+Differentiaaliyhtälöt, 5 op
+MATH.APP.440
+Kompleksimuuttujan funktiot, 5 op
+MATH.APP.450
+Matemaattisen mallinnuksen peruskurssi, 5 op
+MATH.APP.560
+Kohti matematiikan opettajuutta: monipuolinen koulumatematiikka, 5 op
+MATH.MA.410
+Lineaarialgebra, 5 op
+MATH.MA.420
+Analyysi A: raja-arvo ja jatkuvuus, 5 op
+MATH.MA.430
+Analyysi B: derivaatta ja integraali, 5 op
+MATH.MA.440
+Analyysi C: epäoleellinen integraali ja sarjat, 5 op
+MATH.MA.450
+Algebra, 5 op
+MATH.MA.510
+Lause- ja predikaattilogiikka, 5 op
+MATH.MA.520
+Predikaatti- ja modaalilogiikka, 5 op
+MATH.MA.570
+Teknologiasta tukea matematiikan opetukseen, 5 op
+MATH.MA.610
+Graafiteoria, 5 op
+MATH.MA.620
+Euklidiset avaruudet, 5 op
+Valittava 0– op
+Syventäviä opintoja
+
+piilota
+DATA.STAT.610
+Financial Mathematics and Statistics, 5 op
+DATA.STAT.720
+Introduction to Bayesian Analysis, 5 op
+DATA.STAT.730
+Bayesian Modeling and Computation, 5 op
+DATA.STAT.740
+Statistical Modeling, 5 op
+DATA.STAT.750
+Clustered Data Models, 5 op
+DATA.STAT.760
+Learning from Multiple Sources, 5 op
+DATA.STAT.770
+Dimensionality Reduction and Visualization, 5 op
+DATA.STAT.780
+Time Series Analysis, 5 op
+DATA.STAT.791
+Topics in Statistical Data Analytics, 5 op
+DATA.STAT.840
+Statistical Methods for Text Data Analysis, 5 op
+MATH.APP.460
+Numeerinen analyysi, 5 op
+MATH.APP.720
+Optimization Methods, 5 op
+MATH.APP.730
+Inverse Problems, 5 op
+MATH.APP.810
+Mathematical Control Theory, 5 op
+MATH.MA.710
+Renkaat ja kunnat, 10 op
+MATH.MA.721
+Affiini ja projektiivinen geometria, 5 op
+MATH.MA.725
+Euklidinen geometria, 5 op
+MATH.MA.730
+Kompleksianalyysi, 10 op
+MATH.MA.740
+Modulit ja vektoriavaruudet, 10 op
+MATH.MA.750
+Topologia, 10 op
+MATH.MA.760
+Joukko-oppi, 10 op
+MATH.MA.775
+Laskettavuus ja todistaminen, 5 op
+MATH.MA.780
+Matemaattinen logiikka, 5 op
+MATH.MA.810
+Introduction to Functional Analysis, 5 op
+MATH.MA.840
+Measure and Integration, 5 op
+MATH.MA.850
+Matematiikan ajankohtaisia aiheita, 0–10 op
+MATH.MA.870
+Äärelliset mallit ja pelit, 5 op
+MATH.MA.880
+Kuvaileva vaativuusteoria, 5 op
+MATH.MA.890
+Johdatus topologiseen data-analyysiin, 10 op
+MATH.MA.920
+Johdatus algebralliseen topologiaan, 10 op
+PSY-X01
+Psykologia valinnaisina opintoina, 20–60 op
+Valittava vähintään 20 op
+piilota Psykologia valinnaisina opintoina
+PSY.101
+Kehityspsykologia I, 5 op
+PSY.102
+Kognitiivinen neurotiede I, 5 op
+PSY.103
+Persoonallisuuspsykologia I, 5 op
+PSY.104
+Psykologian tutkimusmenetelmät I, 5 op
+PSY.105
+Terveyden ja mielenterveyden psykologia I, 5 op
+PSY.201
+Kehityspsykologia II, 5 op
+PSY.202
+Kognitiivinen neurotiede II, 5 op
+PSY.203
+Persoonallisuuspsykologia II, 5 op
+PSY.205
+Terveyden ja mielenterveyden psykologia II, 5 op
+PSY.206
+Työ- ja organisaatiopsykologia I, 5 op
+PSY.208
+Asiakastyön teoriat ja menetelmät, 5 op
+PSY.322
+Pakolaisten mielenterveys ja hyvinvointi, 5 op
+DATA.STAT-M01
+Tilastollinen data-analyysi valinnaisina opintoina, Vähintään 20 op
+Valittava vähintään 20 op
+piilota Tilastollinen data-analyysi valinnaisina opintoina
+Valittava 0– op
+Tilastollisen data-analyysin perusopintoja
+
+piilota
+DATA.STAT.110
+Tilastotieteen johdantokurssi, 5 op
+MATH.MA.140
+Vektorit ja matriisit, 5 op
+MATH.APP.210
+Johdatus todennäköisyyslaskentaan ja tilastolliseen päättelyyn, 5 op
+DATA.STAT.120
+Tilastollisten menetelmien perusteet, 5 op
+Valittava 0– op
+Tilastollisen data-analyysin aineopintoja
+
+piilota
+DATA.STAT.420
+Matemaattisen tilastotieteen perusteet, 5 op
+DATA.STAT.430
+Laskennalliset menetelmät ja bayesiläisyyden perusteet, 5 op
+DATA.STAT.440
+Statistical Inference, 5 op
+DATA.STAT.450
+Monimuuttujamenetelmät, 5 op
+DATA.STAT.460
+Regression Analysis, 5 op
+DATA.STAT.470
+Yleistetyt lineaariset mallit, 5 op
+DATA.STAT.500
+Sekamallit, 5 op
+MATH.APP.410
+Matriisilaskenta, 5 op
+DATA.STAT.210
+Empiirinen projekti, 5 op
+Valittava 0– op
+Tilastollisen data-analyysin syventäviä opintoja
+
+piilota
+DATA.STAT.610
+Financial Mathematics and Statistics, 5 op
+DATA.STAT.720
+Introduction to Bayesian Analysis, 5 op
+DATA.STAT.730
+Bayesian Modeling and Computation, 5 op
+DATA.STAT.740
+Statistical Modeling, 5 op
+DATA.STAT.750
+Clustered Data Models, 5 op
+DATA.STAT.760
+Learning from Multiple Sources, 5 op
+DATA.STAT.770
+Dimensionality Reduction and Visualization, 5 op
+DATA.STAT.780
+Time Series Analysis, 5 op
+DATA.STAT.791
+Topics in Statistical Data Analytics, 5 op
+DATA.STAT.840
+Statistical Methods for Text Data Analysis, 5 op
+DATA.ML.390
+Computational Diagnostics of Data, 5 op
+DATA.ML.430
+Complex Networks, 5 op
+VIM-P02
+Viestinnän monitieteisen tutkinto-ohjelman perusopinnot valinnaisina opintoina, 25 op
+Valittava 25 op
+piilota Viestinnän monitieteisen tutkinto-ohjelman perusopinnot valinnaisina opintoina
+VIM.110
+Media, arki ja yhteiskunta, 5 op
+VIM.120
+Viestinnän ja vuorovaikutuksen perusteet, 5 op
+VIM.130
+Informaatio- ja mediajärjestelmät, 5 op
+VIM.140
+Journalismi tänään, 5 op
+VIM.150
+Tutkimustaidot, 5 op
+YEB-A07
+Ympäristötekniikka, aineopinnot valinnaisina opintoina, Vähintään 20 op
+Valittava vähintään 20 op
+piilota Ympäristötekniikka, aineopinnot valinnaisina opintoina
+YEB.011
+Ympäristötekniikan perusteet, 5 op
+Valittava vähintään 15 op
+Valitse vähintään 15 op joko suoraan tai väliotsikoiden takaa.
+
+piilota
+YEB.024
+Prosessi- ja ympäristömittaukset, 5 op
+YEB.120
+Materiaalivirtojen hallinta, 5 op
+YEB.721
+Mikrobiologia, 5 op
+YEB.032
+Ilmansuojelu, 5 op
+YEB.010
+Kestävän kehityksen perusteet, 5 op
+Vapaasti valittavissa
+Kiertotalouden opintojaksoja
+
+piilota Valintajoukko
+YEB.151
+Resource Recovery, 5 op
+YEB.023
+Teollisuuden prosessit, 5 op
+YEB.142
+Biogas Technology for Material Flow Management and Energy Production, 5 op
+Vapaasti valittavissa
+Yhdyskuntien ympäristötekniikan opintoja
+
+piilota Valintajoukko
+YEB.131
+Soveltava hydrologia, 5 op
+YEB.031
+Virtaustekniikka, 5 op
+YEB.141
+Water Supply and Sewer Network Design, 5 op
+YEB.130
+Vesihuollon prosessit, 5 op
+YEB.143
+Remediation of Contaminated Environment, 5 op
+YEB.240
+Environmental Engineering for Sustainability, 5 op
+ACC-M01
+Accessibility in Digital Society, 20–30 op
+piilota Accessibility in Digital Society
+ACC.010
+Fundamentals of Accessibility, 5 op
+ACC.020
+Independent Accessibility Project Work, 5 op
+Methods and Technologies For Accessibility and Their Evaluation
+Valittava vähintään 10 op
+piilota Methods and Technologies For Accessibility and Their Evaluation
+Valittava vähintään 10 op
+piilota
+ACC.030
+Defining and discussing accessibility in society, 1 op
+ACC.040
+Picture communication, 1 op
+ACC.050
+Spoken interfaces, 1 op
+ACC.060
+Accessibility and user experience, 1 op
+ACC.070
+Visuals to text, 1 op
+ACC.080
+Social haptic communication, 1 op
+ACC.090
+Easy language, 1 op
+ACC.100
+Easy spoken interaction, 1 op
+ACC.110
+Speech to text (subtitling), 1 op
+ACC.120
+Games, gamification, serious games and accessibility, 1 op
+ACC.130
+Haptics and gestures (gesture-based interfaces), 1 op
+ACC.140
+Rehabilitation and assistive augmentation, 1 op
+ACC.150
+Audio description of art, 1 op
+ACC.160
+Entertainment and accessibility, 1 op
+ACC.170
+Speech and audio to text, 1 op
+ACC.180
+Web accessibility I (technical), 1 op
+ACC.190
+Web accessibility II (content), 1 op
+ACC.200
+Linguistic accessibility and machine translation, 1 op
+ACC.210
+Accessible AI, 1 op
+ACC.220
+Trends in accessibility research, 1 op
+ACC.230
+Accessible Documents, 1 op
+ACC.240
+Accessible Media, 1 op
+ACC.250
+Accessible Social Media, 1 op
+ACC.260
+How to face disabled person?, 1 op
+ACC.270
+Accessible Lectures, 1 op
+ACC.280
+Teaching and Accessibility Legislation, 1 op
+ACC.290
+Introduction to speech-to-text interpreting, 1 op
+ACC.300
+Introduction to Finnish Sign Language, 1 op
+ACC.310
+Accessibility in AR and VR, 1 op
+ACC.320
+Accessible Information Visualization, 1 op
+ACC.330
+Assistive Technology in Gaming, 1 op
+ACC.340
+Trends in Accessibility, 1–5 op
+KEKE-M01
+Kestävän kehityksen opintokokonaisuus, 20–55 op
+Valittava vähintään 20 op
+piilota Kestävän kehityksen opintokokonaisuus
+KEKE.000
+Kestävän kehityksen johdantojakso, 5 op
+KEKE.100
+Kestävä yhteiskunta, 5 op
+KEKE.300
+Kestävä hyvinvointi, 5 op
+KEKE.400
+Ympäristöhistoria, 5 op
+KEKE.500
+Kestävän kehityksen käytännöt, 5 op
+KAT.VAST.208
+Sustainable Business Practices, 5 op
+TUTA.280
+Ajankohtaisia kiertotalouden haasteita ja ratkaisuja, 1–5 op
+FYS.402
+Ilmasto.nyt, 5 op
+HAL.SUD.110
+Politics of Sustainable Development, 5 op
+KAN.210
+Terveys ja kestävä kehitys, 5 op
+Avaa kaikki|Sulje kaikki
+COMP.CS-M03
+Vapaasti valittavat opintojaksot, 0– op
+Vapaasti valittava opintojakso
+Vapaasti valittavia opintojaksoja siten, että tutkinnon laajuus 180 op täyttyy. 
+
+Muualla suoritettujen vapaasti valittaviin opintojen sisällytettävien opintojen tulee olla jokun korkeakoulun opetussuunnitelman mukaisia opintojaksoja.
+
+piilota Vapaasti valittavat opintojaksot
+Esimerkkejä vapaasti valittaviksi opinnoiksi
+Vapaasti valittavissa
+piilota Esimerkkejä vapaasti valittaviksi opinnoiksi
+TAU.M.200
+Tuutorina toimiminen, 2 op
+TAU.M.210
+Kansainvälinen opiskelijatuutorointi, 2 op
+TAU.M.220
+Tuutorivastaavana toimiminen, 3 op
+TAU.M.230
+Liikuntatuutorina toimiminen, 2 op
+TAU.M.010
+Vapaaehtoistyö, 1–3 op
+COMP.CS.015
+Digitaaliset yleistaidot, teema 5: Kyberturvallisuuden perusteet, 1 op
+COMP.800
+Harjoittelu, tietojenkäsittelytieteet, 2–10 op
+Tampereen yliopisto / Tampereen ammattikorkeakoulu
+Tampereen yliopisto ja Tampereen ammattikorkeakoulu muodostavat monialaisen Tampereen korkeakouluyhteisön. Tutkimuksen ja opetuksen vahvuusalueita ovat tekniikka, terveys ja yhteiskunta.
+
+Yliopiston puhelinvaihde: 0294 5211
+Ammattikorkeakoulun puhelinvaihde: 0294 5222
+
+Opiskelijan opas
+TAMK-opiskelijan opas
+Yliopisto-opiskelijan opas
+Yksityisyys
+Evästeasetukset
+Tampereen yliopiston opintotarjontajulkaisun saavutettavuusseloste
+Tietojenkäsittelytieteiden kandidaattiohjelma | Tampereen korkeakouluyhteisö
