@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<regions>
+  <region>
+    <name>Guam</name>
+    <area>540</area>
+    <population>168783</population>
+    <gdp>5259729936.30573</gdp>
+  </region>
+  <region>
+    <name>Guyana</name>
+    <area>214970</area>
+    <population>786559</population>
+    <gdp>7275908034.11422</gdp>
+  </region>
+  <region>
+    <name>India</name>
+    <area>3287259</area>
+    <population>1380004385</population>
+    <gdp>2500132192252.06982</gdp>
+  </region>
+  <region>
+    <name>Jamaica</name>
+    <area>10990</area>
+    <population>2961161</population>
+    <gdp>13440715454.46340</gdp>
+  </region>
+  <region>
+    <name>Latvia</name>
+    <area>64570</area>
+    <population>1901548</population>
+    <gdp>29604557971.02120</gdp>
+  </region>
+  <region>
+    <name>Libya</name>
+    <area>1759540</area>
+    <population>6871287</population>
+    <gdp>27805590095.54540</gdp>
+  </region>
+  <region>
+    <name>Mozambique</name>
+    <area>799380</area>
+    <population>31255435</population>
+    <gdp>17959222232.32380</gdp>
+  </region>
+  <region>
+    <name>Puerto Rico</name>
+    <area>8870</area>
+    <population>3194034</population>
+    <gdp>92660076632.50870</gdp>
+  </region>
+  <region>
+    <name>Saudi Arabia</name>
+    <area>2149690</area>
+    <population>34813867</population>
+    <gdp>650714601909.91504</gdp>
+  </region>
+</regions>
