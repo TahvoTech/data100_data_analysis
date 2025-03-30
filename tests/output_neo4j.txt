@@ -1,0 +1,200 @@
+1. Neo4j uses a property graph model to store data.
+True. Neo4j uses nodes, relationships, and properties to represent and store data
+1
+.
+2. Nodes in Neo4j can have multiple labels.
+True. Nodes can have zero or more labels to classify them into different categories
+1
+.
+3. Relationships in Neo4j must have a direction.
+True. Relationships always have a direction, indicating the connection from one node to another
+1
+.
+4. Cypher is the query language used in Neo4j.
+True. Cypher is the declarative query language used to interact with Neo4j
+2
+.
+5. A node in Neo4j can have properties.
+True. Nodes can have properties, which are key-value pairs that describe the node
+1
+.
+6. Relationships in Neo4j cannot have properties.
+False. Relationships can also have properties, similar to nodes
+1
+.
+7. The CREATE clause in Cypher is used to create nodes and relationships.
+True. The CREATE clause is used to add new nodes and relationships to the graph
+2
+.
+8. The MATCH clause in Cypher is used to retrieve data from the graph.
+True. The MATCH clause is used to find patterns in the graph and retrieve data
+2
+.
+9. Indexes in Neo4j improve the performance of queries.
+True. Indexes help speed up the retrieval of nodes and relationships based on their properties
+1
+.
+10. Constraints in Neo4j ensure data integrity.
+True. Constraints enforce rules on the data, such as uniqueness of property values
+1
+.
+11. The RETURN clause in Cypher specifies what data to return from a query.
+True. The RETURN clause determines the output of a query
+2
+.
+12. The MERGE clause in Cypher is used to ensure that a pattern exists in the graph.
+True. The MERGE clause creates the pattern if it does not exist, or matches it if it does
+2
+.
+13. Neo4j supports ACID transactions.
+True. Neo4j provides ACID-compliant transactions to ensure data consistency
+1
+.
+14. The DELETE clause in Cypher removes nodes and relationships from the graph.
+True. The DELETE clause is used to remove elements from the graph
+2
+.
+15. The SET clause in Cypher is used to update properties of nodes and relationships.
+True. The SET clause modifies the properties of existing nodes and relationships
+2
+.
+16. Neo4j does not support full-text search.
+False. Neo4j supports full-text search through the use of indexes
+1
+.
+17. The REMOVE clause in Cypher is used to remove properties or labels from nodes.
+True. The REMOVE clause can delete properties or labels from nodes
+2
+.
+18. The WITH clause in Cypher is used to chain multiple query parts together.
+True. The WITH clause allows for the combination of multiple query parts
+2
+.
+19. Neo4j can be used to model social networks.
+True. Neo4j is well-suited for modeling and analyzing social networks
+3
+.
+20. The UNWIND clause in Cypher is used to expand a list into individual rows.
+True. The UNWIND clause transforms a list into a set of rows
+2
+.
+21. Neo4j does not support graph algorithms.
+False. Neo4j provides a library of graph algorithms for analysis
+1
+.
+22. The FOREACH clause in Cypher is used to iterate over a list of elements.
+True. The FOREACH clause allows for iteration over lists
+2
+.
+23. Neo4j supports sharding for horizontal scaling.
+False. Neo4j uses a different approach for scaling, focusing on clustering and replication
+1
+.
+24. The CALL clause in Cypher is used to invoke procedures.
+True. The CALL clause is used to execute stored procedures and functions
+2
+.
+25. Neo4j can be integrated with other databases.
+True. Neo4j can be integrated with various databases and data sources
+1
+.
+26. The LOAD CSV clause in Cypher is used to import data from CSV files.
+True. The LOAD CSV clause facilitates data import from CSV files
+2
+.
+27. Neo4j does not support schema constraints.
+False. Neo4j supports schema constraints to enforce data rules
+1
+.
+28. The OPTIONAL MATCH clause in Cypher is used for optional pattern matching.
+True. The OPTIONAL MATCH clause returns results even if the pattern is not found
+2
+.
+29. Neo4j is suitable for real-time recommendation engines.
+True. Neo4j's graph model is ideal for building recommendation engines
+3
+.
+30. The CREATE INDEX clause in Cypher is used to create indexes on properties.
+True. The CREATE INDEX clause creates indexes to improve query performance
+2
+.
+31. Neo4j does not support clustering for high availability.
+False. Neo4j supports clustering to ensure high availability and fault tolerance
+1
+.
+32. The PROFILE clause in Cypher is used to analyze query performance.
+True. The PROFILE clause provides insights into query execution plans
+2
+.
+33. Neo4j can be used for fraud detection.
+True. Neo4j's graph capabilities are effective for detecting fraud patterns
+3
+.
+34. The EXPLAIN clause in Cypher is used to show the execution plan of a query without running it.
+True. The EXPLAIN clause helps understand how a query will be executed
+2
+.
+35. Neo4j does not support RESTful APIs.
+False. Neo4j provides RESTful APIs for interacting with the database
+1
+.
+36. The START clause in Cypher is used to specify starting points for a query.
+True. The START clause defines the starting nodes or relationships for a query
+2
+.
+37. Neo4j can be used for network and IT operations management.
+True. Neo4j is useful for managing and analyzing network and IT operations
+3
+.
+38. The RETURN DISTINCT clause in Cypher is used to return unique results.
+True. The RETURN DISTINCT clause eliminates duplicate results
+2
+.
+39. Neo4j does not support data visualization tools.
+False. Neo4j integrates with various data visualization tools
+1
+.
+40. The LIMIT clause in Cypher is used to limit the number of results returned.
+True. The LIMIT clause restricts the number of results in a query
+2
+.
+41. Neo4j can be used for supply chain management.
+True. Neo4j's graph model is effective for managing supply chains
+3
+.
+42. The SKIP clause in Cypher is used to skip a specified number of results.
+True. The SKIP clause allows for pagination by skipping results
+2
+.
+43. Neo4j does not support user-defined procedures.
+False. Neo4j allows users to define and execute custom procedures
+1
+.
+44. The ORDER BY clause in Cypher is used to sort query results.
+True. The ORDER BY clause sorts the results based on specified criteria
+2
+.
+45. Neo4j can be used for master data management.
+True. Neo4j is suitable for managing and integrating master data
+3
+.
+46. The UNION clause in Cypher is used to combine results from multiple queries.
+True. The UNION clause merges the results of multiple queries
+2
+.
+47. Neo4j does not support role-based access control.
+False. Neo4j provides role-based access control for security
+1
+.
+48. The CASE clause in Cypher is used for conditional expressions.
+True. The CASE clause allows for conditional logic in queries
+2
+.
+49. Neo4j can be used for content management systems.
+True. Neo4j's flexible data model is suitable for content management
+3
+.
+50. The DETACH DELETE clause in Cypher is used to delete nodes and their relationships.
+True. The DETACH DELETE clause removes nodes and all their connected relationships
+2
+.

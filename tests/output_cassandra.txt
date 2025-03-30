@@ -1,0 +1,200 @@
+1. Cassandra is a NoSQL distributed database.
+True. Cassandra is designed to handle large amounts of data across many commodity servers without any single point of failure
+1
+.
+2. Cassandra uses a master-slave architecture.
+False. Cassandra uses a masterless architecture where all nodes are equal
+1
+.
+3. A keyspace in Cassandra is similar to a database in relational databases.
+True. A keyspace is the outermost container for data in Cassandra
+2
+.
+4. Cassandra supports ACID transactions.
+False. Cassandra provides eventual consistency and does not fully support ACID transactions
+1
+.
+5. The CREATE TABLE statement is used to create a new table in Cassandra.
+True. The CREATE TABLE statement defines a new table and its schema
+2
+.
+6. Cassandra uses the SQL query language.
+False. Cassandra uses CQL (Cassandra Query Language), which is similar to SQL but designed for Cassandra
+2
+.
+7. A partition key determines how data is distributed across nodes in Cassandra.
+True. The partition key is used to distribute data evenly across the cluster
+1
+.
+8. Cassandra supports secondary indexes.
+True. Secondary indexes can be created on columns to improve query performance
+2
+.
+9. The INSERT statement is used to add data to a table in Cassandra.
+True. The INSERT statement adds new rows to a table
+2
+.
+10. Cassandra does not support joins between tables.
+True. Cassandra is designed for denormalized data models and does not support joins
+1
+.
+11. The SELECT statement is used to retrieve data from a table in Cassandra.
+True. The SELECT statement queries data from a table
+2
+.
+12. Cassandra supports both synchronous and asynchronous replication.
+True. Cassandra can replicate data synchronously or asynchronously to ensure high availability
+1
+.
+13. A clustering column is used to sort data within a partition.
+True. Clustering columns define the order of rows within a partition
+2
+.
+14. The UPDATE statement is used to modify existing data in a table.
+True. The UPDATE statement changes the values of existing rows
+2
+.
+15. Cassandra uses a gossip protocol for node communication.
+True. The gossip protocol allows nodes to exchange state information
+1
+.
+16. The DELETE statement removes rows from a table in Cassandra.
+True. The DELETE statement deletes rows based on specified conditions
+2
+.
+17. Cassandra supports user-defined data types (UDTs).
+True. UDTs allow users to define custom data types
+2
+.
+18. The TRUNCATE command removes all rows from a table.
+True. The TRUNCATE command quickly deletes all rows in a table
+2
+.
+19. Cassandra provides built-in support for time series data.
+True. Cassandra's data model is well-suited for time series data
+1
+.
+20. The ALTER TABLE statement is used to modify the schema of a table.
+True. The ALTER TABLE statement changes the structure of an existing table
+2
+.
+21. Cassandra does not support batch operations.
+False. Cassandra supports batch operations to execute multiple statements in a single request
+2
+.
+22. The DROP TABLE statement deletes a table and its data.
+True. The DROP TABLE statement removes a table from the keyspace
+2
+.
+23. Cassandra uses a tunable consistency model.
+True. Cassandra allows users to configure the consistency level for read and write operations
+1
+.
+24. The COPY command is used to import and export data in Cassandra.
+True. The COPY command facilitates data import and export using CSV files
+2
+.
+25. Cassandra supports lightweight transactions (LWTs).
+True. LWTs provide conditional updates with linearizable consistency
+1
+.
+26. The CREATE INDEX statement creates a secondary index on a column.
+True. The CREATE INDEX statement adds an index to a column to improve query performance
+2
+.
+27. Cassandra does not support JSON data.
+False. Cassandra supports JSON data and provides functions to work with JSON
+1
+.
+28. The DESCRIBE command provides information about keyspaces and tables.
+True. The DESCRIBE command displays metadata about keyspaces and tables
+2
+.
+29. Cassandra uses a write-ahead log (WAL) for durability.
+True. The WAL ensures that write operations are durable
+1
+.
+30. The BATCH statement groups multiple CQL statements into a single request.
+True. The BATCH statement executes multiple statements atomically
+2
+.
+31. Cassandra supports materialized views.
+True. Materialized views provide a way to automatically maintain query results
+1
+.
+32. The USE command sets the current keyspace for subsequent operations.
+True. The USE command specifies the keyspace to be used
+2
+.
+33. Cassandra does not support range queries.
+False. Cassandra supports range queries on clustering columns
+1
+.
+34. The CREATE KEYSPACE statement defines a new keyspace.
+True. The CREATE KEYSPACE statement creates a new keyspace with specified options
+2
+.
+35. Cassandra uses a ring topology for data distribution.
+True. The ring topology ensures even data distribution across nodes
+1
+.
+36. The DROP KEYSPACE statement deletes a keyspace and all its data.
+True. The DROP KEYSPACE statement removes a keyspace and its contents
+2
+.
+37. Cassandra supports composite partition keys.
+True. Composite partition keys consist of multiple columns
+1
+.
+38. The LIST collection type stores ordered elements.
+True. The LIST collection type maintains the order of elements
+2
+.
+39. Cassandra does not support counters.
+False. Cassandra supports counters for incrementing and decrementing values
+1
+.
+40. The MAP collection type stores key-value pairs.
+True. The MAP collection type allows for storing key-value pairs
+2
+.
+41. Cassandra uses a quorum-based replication strategy.
+True. Quorum-based replication ensures data consistency across nodes
+1
+.
+42. The SET collection type stores unique, unordered elements.
+True. The SET collection type ensures uniqueness of elements
+2
+.
+43. Cassandra supports multi-datacenter replication.
+True. Multi-datacenter replication provides high availability and disaster recovery
+1
+.
+44. The TTL option sets a time-to-live for data in Cassandra.
+True. The TTL option automatically expires data after a specified period
+2
+.
+45. Cassandra does not support schema changes.
+False. Cassandra allows for schema changes using CQL statements
+1
+.
+46. The CONSISTENCY command sets the consistency level for a session.
+True. The CONSISTENCY command configures the consistency level for read and write operations
+2
+.
+47. Cassandra uses a token ring for partitioning data.
+True. The token ring determines how data is partitioned across nodes
+1
+.
+48. The ALTER KEYSPACE statement modifies the properties of a keyspace.
+True. The ALTER KEYSPACE statement changes keyspace options
+2
+.
+49. Cassandra supports point-in-time recovery.
+True. Point-in-time recovery allows for restoring data to a specific timestamp
+1
+.
+50. The REVOKE command removes permissions from a user.
+True. The REVOKE command revokes access permissions
+2
+.

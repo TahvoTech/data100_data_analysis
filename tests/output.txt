@@ -1,0 +1,70 @@
+1. MongoDB uses JSON-like documents with optional schemas.
+True. MongoDB stores data in flexible, JSON-like documents, which means fields can vary from document to document.
+2. The insertMany() method is used to insert multiple documents into a collection.
+True. The insertMany() method allows you to insert multiple documents in a single operation.
+3. In MongoDB, the _id field is automatically indexed.
+True. The _id field is a unique identifier for documents and is automatically indexed.
+4. The updateOne() method updates all documents that match the query criteria.
+False. The updateOne() method updates only the first document that matches the query criteria.
+5. MongoDB supports ACID transactions for multi-document operations.
+True. MongoDB supports ACID transactions, allowing multi-document operations to be executed atomically.
+6. The $set operator is used to remove fields from a document.
+False. The $set operator is used to update the value of a field in a document. To remove fields, you use the $unset operator.
+7. The find() method returns a cursor to the documents that match the query criteria.
+True. The find() method returns a cursor, which can be iterated to access the matching documents.
+8. MongoDB does not support indexing on embedded documents.
+False. MongoDB supports indexing on fields within embedded documents.
+9. The aggregate() method is used to perform aggregation operations on the data.
+True. The aggregate() method processes data records and returns computed results.
+10. In MongoDB, a collection can only store documents of the same structure.
+False. MongoDB collections can store documents with different structures, as it is schema-less.
+11. The $match stage in the aggregation pipeline filters documents to pass only those that match the specified conditions.
+True. The $match stage filters documents based on specified criteria.
+12. The drop() method is used to delete a single document from a collection.
+False. The drop() method is used to delete an entire collection, not a single document.
+13. MongoDB uses the findAndModify() method to atomically modify and return a document.
+True. The findAndModify() method modifies and returns a document in a single atomic operation.
+14. The $inc operator is used to decrement the value of a field.
+False. The $inc operator is used to increment the value of a field. To decrement, you use a negative value.
+15. MongoDB's shardCollection command is used to enable sharding on a collection.
+True. The shardCollection command enables sharding for a collection, distributing data across multiple shards.
+1. MongoDB supports geospatial queries to find data based on location.
+True. MongoDB has geospatial indexing and querying capabilities to handle location-based data.
+2. The $regex operator is used to perform text search queries in MongoDB.
+True. The $regex operator allows you to search for patterns within text fields.
+3. MongoDB's updateMany() method updates only one document that matches the query criteria.
+False. The updateMany() method updates all documents that match the query criteria.
+4. The countDocuments() method returns the total number of documents in a collection.
+False. The countDocuments() method returns the number of documents that match a query, not the total number in the collection.
+5. MongoDB supports transactions across multiple collections.
+True. MongoDB supports multi-document transactions, allowing operations across multiple collections to be executed atomically.
+6. The $group stage in the aggregation pipeline is used to group documents by specified fields.
+True. The $group stage groups documents by specified fields and can perform aggregations like sum, average, etc.
+7. MongoDB's dropDatabase() method deletes a single collection from the database.
+False. The dropDatabase() method deletes the entire database, including all collections.
+8. The $or operator is used to combine multiple query conditions with a logical AND.
+False. The $or operator combines multiple query conditions with a logical OR.
+9. MongoDB's distinct() method returns unique values for a specified field across a collection.
+True. The distinct() method retrieves unique values for a specified field.
+10. The $lookup stage in the aggregation pipeline performs a left outer join with another collection.
+True. The $lookup stage allows you to join documents from another collection.
+11. MongoDB's renameCollection() method is used to rename a field in a document.
+False. The renameCollection() method is used to rename a collection, not a field.
+12. The $text operator is used to perform full-text search queries in MongoDB.
+True. The $text operator enables full-text search capabilities.
+13. MongoDB's createIndex() method is used to create a new collection.
+False. The createIndex() method is used to create an index on a collection, not to create a new collection.
+14. The $unset operator is used to remove a field from a document.
+True. The $unset operator removes a specified field from a document.
+15. MongoDB's findOneAndDelete() method deletes multiple documents that match the query criteria.
+False. The findOneAndDelete() method deletes only one document that matches the query criteria.
+16. The $max operator is used to set a field to the maximum of its current value and a specified value.
+True. The $max operator updates a field to the maximum of its current value and a specified value.
+17. MongoDB's aggregate() method can be used to perform map-reduce operations.
+True. The aggregate() method can perform complex data processing, including map-reduce operations.
+18. The $min operator is used to set a field to the minimum of its current value and a specified value.
+True. The $min operator updates a field to the minimum of its current value and a specified value.
+19. MongoDB's findOneAndUpdate() method updates multiple documents that match the query criteria.
+False. The findOneAndUpdate() method updates only one document that matches the query criteria.
+20. The $exists operator is used to check if a field exists in a document.
+True. The $exists operator checks for the presence of a field in a document.
